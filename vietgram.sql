@@ -117,7 +117,7 @@ INSERT INTO `profiles` (`username`, `name`, `email`, `website`, `bio`, `phone_nu
 ('dparradye7', '', 'ktutchener7@vinaora.com', '', '', '', NULL),
 ('egoforth1', '', 'cknollesgreen1@4shared.com', '', '', '', NULL),
 ('enazareth', '', 'efooterh@icio.us', '', '', '', NULL),
-('faizaaulia', 'Faiza Aulia Rahma Putra', 'faiz@faiza.com', 'faizaaulia.com', 'Moklet24Hours', '082143213456', 'male'),
+('faizaaulia', 'Rahmat Rambe', 'rahmatrambe.office@gmail.com', 'rahmat.com', '2gether.com', '082219738815', 'male'),
 ('ffooter2', '', 'kgofton2@google.it', '', '', '', NULL),
 ('gformigli9', '', 'fketts9@apple.com', '', '', '', NULL),
 ('gsallg', '', 'cmeritg@pbs.org', '', '', '', NULL),
